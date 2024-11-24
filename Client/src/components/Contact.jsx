@@ -1,13 +1,13 @@
 import React, { useState } from 'react';
 import { Container, Typography, Button, TextField, Box } from '@mui/material';
-import DoneIcon from '@mui/icons-material/Done'; // Importing the Done icon
+import DoneIcon from '@mui/icons-material/Done'; 
 import AppInfo from './AppInfo';
 
 const ConcatPage = () => {
   const [name, setName] = useState('');
   const [phone, setPhone] = useState('');
   const [email, setEmail] = useState('');
-  const [submitted, setSubmitted] = useState(false); // State to track if form is submitted
+  const [submitted, setSubmitted] = useState(false); 
 
   const handleNameChange = (event) => {
     setName(event.target.value);

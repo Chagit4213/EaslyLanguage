@@ -43,19 +43,6 @@ const CartItem = ({ item }) => {
           <Grid item>
             <Typography>{amount}</Typography>
           </Grid>
-
-          {/* <Grid item>
-            <Typography>Amount: </Typography>
-          </Grid>
-          <Grid item>
-            <IconButton onClick={handleDecreaseAmount}>-</IconButton>
-          </Grid>
-          <Grid item>
-            <Typography>{amount}</Typography>
-          </Grid>
-          <Grid item>
-            <IconButton onClick={handleIncreaseAmount}>+</IconButton>
-          </Grid> */}
         </Grid>
         <Button onClick={handleRemoveFromCart}>Remove</Button>
       </CardContent>
