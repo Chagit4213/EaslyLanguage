@@ -1,0 +1,14 @@
+C:\Users\חגית שרבני\Desktop\הנדסאים שנה ב\דוטנט - סמסטר 2\שיעור8 28.7 - פרוייקט\App\App.DAL\bin\Debug\net8.0\App.DAL.deps.json
+C:\Users\חגית שרבני\Desktop\הנדסאים שנה ב\דוטנט - סמסטר 2\שיעור8 28.7 - פרוייקט\App\App.DAL\bin\Debug\net8.0\App.DAL.runtimeconfig.json
+C:\Users\חגית שרבני\Desktop\הנדסאים שנה ב\דוטנט - סמסטר 2\שיעור8 28.7 - פרוייקט\App\App.DAL\bin\Debug\net8.0\App.DAL.dll
+C:\Users\חגית שרבני\Desktop\הנדסאים שנה ב\דוטנט - סמסטר 2\שיעור8 28.7 - פרוייקט\App\App.DAL\bin\Debug\net8.0\App.DAL.pdb
+C:\Users\חגית שרבני\Desktop\הנדסאים שנה ב\דוטנט - סמסטר 2\שיעור8 28.7 - פרוייקט\App\App.DAL\obj\Debug\net8.0\App.DAL.csproj.AssemblyReference.cache
+C:\Users\חגית שרבני\Desktop\הנדסאים שנה ב\דוטנט - סמסטר 2\שיעור8 28.7 - פרוייקט\App\App.DAL\obj\Debug\net8.0\App.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\חגית שרבני\Desktop\הנדסאים שנה ב\דוטנט - סמסטר 2\שיעור8 28.7 - פרוייקט\App\App.DAL\obj\Debug\net8.0\App.DAL.AssemblyInfoInputs.cache
+C:\Users\חגית שרבני\Desktop\הנדסאים שנה ב\דוטנט - סמסטר 2\שיעור8 28.7 - פרוייקט\App\App.DAL\obj\Debug\net8.0\App.DAL.AssemblyInfo.cs
+C:\Users\חגית שרבני\Desktop\הנדסאים שנה ב\דוטנט - סמסטר 2\שיעור8 28.7 - פרוייקט\App\App.DAL\obj\Debug\net8.0\App.DAL.csproj.CoreCompileInputs.cache
+C:\Users\חגית שרבני\Desktop\הנדסאים שנה ב\דוטנט - סמסטר 2\שיעור8 28.7 - פרוייקט\App\App.DAL\obj\Debug\net8.0\App.DAL.dll
+C:\Users\חגית שרבני\Desktop\הנדסאים שנה ב\דוטנט - סמסטר 2\שיעור8 28.7 - פרוייקט\App\App.DAL\obj\Debug\net8.0\refint\App.DAL.dll
+C:\Users\חגית שרבני\Desktop\הנדסאים שנה ב\דוטנט - סמסטר 2\שיעור8 28.7 - פרוייקט\App\App.DAL\obj\Debug\net8.0\App.DAL.pdb
+C:\Users\חגית שרבני\Desktop\הנדסאים שנה ב\דוטנט - סמסטר 2\שיעור8 28.7 - פרוייקט\App\App.DAL\obj\Debug\net8.0\App.DAL.genruntimeconfig.cache
+C:\Users\חגית שרבני\Desktop\הנדסאים שנה ב\דוטנט - סמסטר 2\שיעור8 28.7 - פרוייקט\App\App.DAL\obj\Debug\net8.0\ref\App.DAL.dll

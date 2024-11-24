@@ -1,0 +1,11 @@
+C:\Users\חגית שרבני\Desktop\הנדסאים שנה ב\דוטנט - סמסטר 2\שיעור8 28.7 - פרוייקט\App\App.DTO\bin\Debug\net8.0\App.DTO.deps.json
+C:\Users\חגית שרבני\Desktop\הנדסאים שנה ב\דוטנט - סמסטר 2\שיעור8 28.7 - פרוייקט\App\App.DTO\bin\Debug\net8.0\App.DTO.dll
+C:\Users\חגית שרבני\Desktop\הנדסאים שנה ב\דוטנט - סמסטר 2\שיעור8 28.7 - פרוייקט\App\App.DTO\bin\Debug\net8.0\App.DTO.pdb
+C:\Users\חגית שרבני\Desktop\הנדסאים שנה ב\דוטנט - סמסטר 2\שיעור8 28.7 - פרוייקט\App\App.DTO\obj\Debug\net8.0\App.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\חגית שרבני\Desktop\הנדסאים שנה ב\דוטנט - סמסטר 2\שיעור8 28.7 - פרוייקט\App\App.DTO\obj\Debug\net8.0\App.DTO.AssemblyInfoInputs.cache
+C:\Users\חגית שרבני\Desktop\הנדסאים שנה ב\דוטנט - סמסטר 2\שיעור8 28.7 - פרוייקט\App\App.DTO\obj\Debug\net8.0\App.DTO.AssemblyInfo.cs
+C:\Users\חגית שרבני\Desktop\הנדסאים שנה ב\דוטנט - סמסטר 2\שיעור8 28.7 - פרוייקט\App\App.DTO\obj\Debug\net8.0\App.DTO.csproj.CoreCompileInputs.cache
+C:\Users\חגית שרבני\Desktop\הנדסאים שנה ב\דוטנט - סמסטר 2\שיעור8 28.7 - פרוייקט\App\App.DTO\obj\Debug\net8.0\App.DTO.dll
+C:\Users\חגית שרבני\Desktop\הנדסאים שנה ב\דוטנט - סמסטר 2\שיעור8 28.7 - פרוייקט\App\App.DTO\obj\Debug\net8.0\refint\App.DTO.dll
+C:\Users\חגית שרבני\Desktop\הנדסאים שנה ב\דוטנט - סמסטר 2\שיעור8 28.7 - פרוייקט\App\App.DTO\obj\Debug\net8.0\App.DTO.pdb
+C:\Users\חגית שרבני\Desktop\הנדסאים שנה ב\דוטנט - סמסטר 2\שיעור8 28.7 - פרוייקט\App\App.DTO\obj\Debug\net8.0\ref\App.DTO.dll

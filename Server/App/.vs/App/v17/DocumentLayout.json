@@ -1,0 +1,501 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB475EF2-97ED-444E-90D0-4C7ACD848933}|App.BL\\App.BL.csproj|c:\\users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\app\\app.bl\\mappers\\usermappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB475EF2-97ED-444E-90D0-4C7ACD848933}|App.BL\\App.BL.csproj|solutionrelative:app.bl\\mappers\\usermappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF0B133-38CC-4A28-89CF-B899D4D21F54}|App.API\\App.API.csproj|C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\app.api\\mappers\\usermappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF0B133-38CC-4A28-89CF-B899D4D21F54}|App.API\\App.API.csproj|solutionrelative:app.api\\mappers\\usermappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB475EF2-97ED-444E-90D0-4C7ACD848933}|App.BL\\App.BL.csproj|C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\app.bl\\mappers\\ordermappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB475EF2-97ED-444E-90D0-4C7ACD848933}|App.BL\\App.BL.csproj|solutionrelative:app.bl\\mappers\\ordermappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF0B133-38CC-4A28-89CF-B899D4D21F54}|App.API\\App.API.csproj|C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\app.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF0B133-38CC-4A28-89CF-B899D4D21F54}|App.API\\App.API.csproj|solutionrelative:app.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB475EF2-97ED-444E-90D0-4C7ACD848933}|App.BL\\App.BL.csproj|C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\app.bl\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB475EF2-97ED-444E-90D0-4C7ACD848933}|App.BL\\App.BL.csproj|solutionrelative:app.bl\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83463463-C138-4DF1-ADCE-D8177A6C4F70}|App.DAL\\App.DAL.csproj|C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\app.dal\\repositoies\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83463463-C138-4DF1-ADCE-D8177A6C4F70}|App.DAL\\App.DAL.csproj|solutionrelative:app.dal\\repositoies\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83463463-C138-4DF1-ADCE-D8177A6C4F70}|App.DAL\\App.DAL.csproj|C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\app.dal\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83463463-C138-4DF1-ADCE-D8177A6C4F70}|App.DAL\\App.DAL.csproj|solutionrelative:app.dal\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB475EF2-97ED-444E-90D0-4C7ACD848933}|App.BL\\App.BL.csproj|C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\app.bl\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB475EF2-97ED-444E-90D0-4C7ACD848933}|App.BL\\App.BL.csproj|solutionrelative:app.bl\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF0B133-38CC-4A28-89CF-B899D4D21F54}|App.API\\App.API.csproj|C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\app.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF0B133-38CC-4A28-89CF-B899D4D21F54}|App.API\\App.API.csproj|solutionrelative:app.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF0B133-38CC-4A28-89CF-B899D4D21F54}|App.API\\App.API.csproj|C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\app.api\\mappers\\ordermappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF0B133-38CC-4A28-89CF-B899D4D21F54}|App.API\\App.API.csproj|solutionrelative:app.api\\mappers\\ordermappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB475EF2-97ED-444E-90D0-4C7ACD848933}|App.BL\\App.BL.csproj|C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\app.bl\\interface\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB475EF2-97ED-444E-90D0-4C7ACD848933}|App.BL\\App.BL.csproj|solutionrelative:app.bl\\interface\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB475EF2-97ED-444E-90D0-4C7ACD848933}|App.BL\\App.BL.csproj|C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\app.bl\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB475EF2-97ED-444E-90D0-4C7ACD848933}|App.BL\\App.BL.csproj|solutionrelative:app.bl\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83463463-C138-4DF1-ADCE-D8177A6C4F70}|App.DAL\\App.DAL.csproj|C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\app.dal\\interface\\iorderrpository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83463463-C138-4DF1-ADCE-D8177A6C4F70}|App.DAL\\App.DAL.csproj|solutionrelative:app.dal\\interface\\iorderrpository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83463463-C138-4DF1-ADCE-D8177A6C4F70}|App.DAL\\App.DAL.csproj|C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\app.dal\\repositoies\\orderrpository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83463463-C138-4DF1-ADCE-D8177A6C4F70}|App.DAL\\App.DAL.csproj|solutionrelative:app.dal\\repositoies\\orderrpository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14A0F29-BDEC-4C01-9820-99BB30055697}|App.DTO\\App.DTO.csproj|C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\app.dto\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14A0F29-BDEC-4C01-9820-99BB30055697}|App.DTO\\App.DTO.csproj|solutionrelative:app.dto\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83463463-C138-4DF1-ADCE-D8177A6C4F70}|App.DAL\\App.DAL.csproj|C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\app.dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83463463-C138-4DF1-ADCE-D8177A6C4F70}|App.DAL\\App.DAL.csproj|solutionrelative:app.dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF0B133-38CC-4A28-89CF-B899D4D21F54}|App.API\\App.API.csproj|C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\app.api\\models\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF0B133-38CC-4A28-89CF-B899D4D21F54}|App.API\\App.API.csproj|solutionrelative:app.api\\models\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF0B133-38CC-4A28-89CF-B899D4D21F54}|App.API\\App.API.csproj|C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\app.api\\mappers\\languagemappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF0B133-38CC-4A28-89CF-B899D4D21F54}|App.API\\App.API.csproj|solutionrelative:app.api\\mappers\\languagemappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF0B133-38CC-4A28-89CF-B899D4D21F54}|App.API\\App.API.csproj|C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\app.api\\controllers\\languagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF0B133-38CC-4A28-89CF-B899D4D21F54}|App.API\\App.API.csproj|solutionrelative:app.api\\controllers\\languagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83463463-C138-4DF1-ADCE-D8177A6C4F70}|App.DAL\\App.DAL.csproj|C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\app.dal\\datacontext\\languageeasilycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83463463-C138-4DF1-ADCE-D8177A6C4F70}|App.DAL\\App.DAL.csproj|solutionrelative:app.dal\\datacontext\\languageeasilycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83463463-C138-4DF1-ADCE-D8177A6C4F70}|App.DAL\\App.DAL.csproj|C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\app.dal\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83463463-C138-4DF1-ADCE-D8177A6C4F70}|App.DAL\\App.DAL.csproj|solutionrelative:app.dal\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF0B133-38CC-4A28-89CF-B899D4D21F54}|App.API\\App.API.csproj|C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\app.api\\models\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF0B133-38CC-4A28-89CF-B899D4D21F54}|App.API\\App.API.csproj|solutionrelative:app.api\\models\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83463463-C138-4DF1-ADCE-D8177A6C4F70}|App.DAL\\App.DAL.csproj|C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\app.dal\\repositoies\\languagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83463463-C138-4DF1-ADCE-D8177A6C4F70}|App.DAL\\App.DAL.csproj|solutionrelative:app.dal\\repositoies\\languagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83463463-C138-4DF1-ADCE-D8177A6C4F70}|App.DAL\\App.DAL.csproj|C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\app.dal\\interface\\ilanguagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83463463-C138-4DF1-ADCE-D8177A6C4F70}|App.DAL\\App.DAL.csproj|solutionrelative:app.dal\\interface\\ilanguagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF0B133-38CC-4A28-89CF-B899D4D21F54}|App.API\\App.API.csproj|C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\app.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF0B133-38CC-4A28-89CF-B899D4D21F54}|App.API\\App.API.csproj|solutionrelative:app.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF0B133-38CC-4A28-89CF-B899D4D21F54}|App.API\\App.API.csproj|C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\app.api\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF0B133-38CC-4A28-89CF-B899D4D21F54}|App.API\\App.API.csproj|solutionrelative:app.api\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14A0F29-BDEC-4C01-9820-99BB30055697}|App.DTO\\App.DTO.csproj|C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\app.dto\\models\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14A0F29-BDEC-4C01-9820-99BB30055697}|App.DTO\\App.DTO.csproj|solutionrelative:app.dto\\models\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB475EF2-97ED-444E-90D0-4C7ACD848933}|App.BL\\App.BL.csproj|C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\app.bl\\services\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB475EF2-97ED-444E-90D0-4C7ACD848933}|App.BL\\App.BL.csproj|solutionrelative:app.bl\\services\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB475EF2-97ED-444E-90D0-4C7ACD848933}|App.BL\\App.BL.csproj|C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\app.bl\\interface\\ilanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB475EF2-97ED-444E-90D0-4C7ACD848933}|App.BL\\App.BL.csproj|solutionrelative:app.bl\\interface\\ilanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "App.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "App.API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAUwDIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:17:14.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserMappers.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.BL\\Mappers\\UserMappers.cs",
+              "RelativeDocumentMoniker": "App.BL\\Mappers\\UserMappers.cs",
+              "ToolTip": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.BL\\Mappers\\UserMappers.cs",
+              "RelativeToolTip": "App.BL\\Mappers\\UserMappers.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:16:30.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserMappers.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.API\\Mappers\\UserMappers.cs",
+              "RelativeDocumentMoniker": "App.API\\Mappers\\UserMappers.cs",
+              "ToolTip": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.API\\Mappers\\UserMappers.cs",
+              "RelativeToolTip": "App.API\\Mappers\\UserMappers.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T17:37:43.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.BL\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "App.BL\\Interface\\IUserService.cs",
+              "ToolTip": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.BL\\Interface\\IUserService.cs",
+              "RelativeToolTip": "App.BL\\Interface\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T18:23:58.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.DAL\\Repositoies\\UserRepository.cs",
+              "RelativeDocumentMoniker": "App.DAL\\Repositoies\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.DAL\\Repositoies\\UserRepository.cs",
+              "RelativeToolTip": "App.DAL\\Repositoies\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T18:57:40.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.DAL\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "App.DAL\\Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.DAL\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "App.DAL\\Interface\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T18:26:26.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "App.API\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "App.API\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswBYAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:46:39.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderMappers.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.BL\\Mappers\\OrderMappers.cs",
+              "RelativeDocumentMoniker": "App.BL\\Mappers\\OrderMappers.cs",
+              "ToolTip": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.BL\\Mappers\\OrderMappers.cs",
+              "RelativeToolTip": "App.BL\\Mappers\\OrderMappers.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:12:42.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.BL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "App.BL\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.BL\\Services\\UserService.cs",
+              "RelativeToolTip": "App.BL\\Services\\UserService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAcwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:52:21.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderMappers.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.API\\Mappers\\OrderMappers.cs",
+              "RelativeDocumentMoniker": "App.API\\Mappers\\OrderMappers.cs",
+              "ToolTip": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.API\\Mappers\\OrderMappers.cs",
+              "RelativeToolTip": "App.API\\Mappers\\OrderMappers.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:12:37.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.BL\\Interface\\IOrderService.cs",
+              "RelativeDocumentMoniker": "App.BL\\Interface\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.BL\\Interface\\IOrderService.cs",
+              "RelativeToolTip": "App.BL\\Interface\\IOrderService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:16:08.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IOrderRpository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.DAL\\Interface\\IOrderRpository.cs",
+              "RelativeDocumentMoniker": "App.DAL\\Interface\\IOrderRpository.cs",
+              "ToolTip": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.DAL\\Interface\\IOrderRpository.cs",
+              "RelativeToolTip": "App.DAL\\Interface\\IOrderRpository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:24:38.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderRpository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.DAL\\Repositoies\\OrderRpository.cs",
+              "RelativeDocumentMoniker": "App.DAL\\Repositoies\\OrderRpository.cs",
+              "ToolTip": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.DAL\\Repositoies\\OrderRpository.cs",
+              "RelativeToolTip": "App.DAL\\Repositoies\\OrderRpository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:42:26.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.BL\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "App.BL\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.BL\\Services\\OrderService.cs",
+              "RelativeToolTip": "App.BL\\Services\\OrderService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAtwA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T10:11:24.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.DAL\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "App.DAL\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.DAL\\Entities\\User.cs",
+              "RelativeToolTip": "App.DAL\\Entities\\User.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:10:06.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.API\\Models\\CreateUserRequest.cs",
+              "RelativeDocumentMoniker": "App.API\\Models\\CreateUserRequest.cs",
+              "ToolTip": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.API\\Models\\CreateUserRequest.cs",
+              "RelativeToolTip": "App.API\\Models\\CreateUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:46:30.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.DTO\\Models\\UserDTO.cs",
+              "RelativeDocumentMoniker": "App.DTO\\Models\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.DTO\\Models\\UserDTO.cs",
+              "RelativeToolTip": "App.DTO\\Models\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T18:26:48.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LanguageController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.API\\Controllers\\LanguageController.cs",
+              "RelativeDocumentMoniker": "App.API\\Controllers\\LanguageController.cs",
+              "ToolTip": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.API\\Controllers\\LanguageController.cs",
+              "RelativeToolTip": "App.API\\Controllers\\LanguageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T18:17:56.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LanguageMappers.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.API\\Mappers\\LanguageMappers.cs",
+              "RelativeDocumentMoniker": "App.API\\Mappers\\LanguageMappers.cs",
+              "ToolTip": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.API\\Mappers\\LanguageMappers.cs",
+              "RelativeToolTip": "App.API\\Mappers\\LanguageMappers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T18:20:29.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ILanguageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.DAL\\Interface\\ILanguageRepository.cs",
+              "RelativeDocumentMoniker": "App.DAL\\Interface\\ILanguageRepository.cs",
+              "ToolTip": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.DAL\\Interface\\ILanguageRepository.cs",
+              "RelativeToolTip": "App.DAL\\Interface\\ILanguageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:30:23.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LanguageEasilyContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.DAL\\DataContext\\LanguageEasilyContext.cs",
+              "RelativeDocumentMoniker": "App.DAL\\DataContext\\LanguageEasilyContext.cs",
+              "ToolTip": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.DAL\\DataContext\\LanguageEasilyContext.cs",
+              "RelativeToolTip": "App.DAL\\DataContext\\LanguageEasilyContext.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T17:14:48.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.API\\Models\\CreateOrderRequest.cs",
+              "RelativeDocumentMoniker": "App.API\\Models\\CreateOrderRequest.cs",
+              "ToolTip": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.API\\Models\\CreateOrderRequest.cs",
+              "RelativeToolTip": "App.API\\Models\\CreateOrderRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:18:14.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.DAL\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "App.DAL\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.DAL\\Entities\\Order.cs",
+              "RelativeToolTip": "App.DAL\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:08:07.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LanguageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.DAL\\Repositoies\\LanguageRepository.cs",
+              "RelativeDocumentMoniker": "App.DAL\\Repositoies\\LanguageRepository.cs",
+              "ToolTip": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.DAL\\Repositoies\\LanguageRepository.cs",
+              "RelativeToolTip": "App.DAL\\Repositoies\\LanguageRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAWwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:29:47.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.API\\Program.cs",
+              "RelativeDocumentMoniker": "App.API\\Program.cs",
+              "ToolTip": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.API\\Program.cs",
+              "RelativeToolTip": "App.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:36:17.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.API\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "App.API\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.API\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "App.API\\Models\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:18:22.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.DTO\\Models\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "App.DTO\\Models\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.DTO\\Models\\OrderDTO.cs",
+              "RelativeToolTip": "App.DTO\\Models\\OrderDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:12:16.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LanguageService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.BL\\Services\\LanguageService.cs",
+              "RelativeDocumentMoniker": "App.BL\\Services\\LanguageService.cs",
+              "ToolTip": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.BL\\Services\\LanguageService.cs",
+              "RelativeToolTip": "App.BL\\Services\\LanguageService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:31:51.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ILanguageService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.BL\\Interface\\ILanguageService.cs",
+              "RelativeDocumentMoniker": "App.BL\\Interface\\ILanguageService.cs",
+              "ToolTip": "C:\\Users\\\u05D7\u05D2\u05D9\u05EA \u05E9\u05E8\u05D1\u05E0\u05D9\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8 - \u05E1\u05DE\u05E1\u05D8\u05E8 2\\\u05E9\u05D9\u05E2\u05D5\u05E88 28.7 - \u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\App\\App.BL\\Interface\\ILanguageService.cs",
+              "RelativeToolTip": "App.BL\\Interface\\ILanguageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:31:58.57Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

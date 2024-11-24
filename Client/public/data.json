@@ -1,0 +1,46 @@
+{
+  "Languages": [
+    {
+      "language": "English",
+      "teacherName": "Jony",
+      "numbersOfCourses": 5,
+      "img": "/assets/English.jpeg",
+      "price": 300
+    },
+    {
+      "language": "French",
+      "teacherName": "Mario",
+      "numbersOfCourses": 5,
+      "img": "/assets/French.jpeg",
+      "price": 300
+    },
+    {
+      "language": "Spanish",
+      "teacherName": "Elecsander",
+      "numbersOfCourses": 5,
+      "img": "/assets/Spanish.jpeg",
+      "price": 300
+    },
+    {
+      "language": "Hebrew",
+      "teacherName": "Yakov",
+      "numbersOfCourses": 5,
+      "img": "/assets/Yiddish.jpeg",
+      "price": 300
+    },
+    {
+      "language": "Arabic",
+      "teacherName": "Muchamad",
+      "numbersOfCourses": 5,
+      "img": "/assets/Arabic.jpeg",
+      "price": 300
+    },
+    {
+      "language": "Chinese",
+      "teacherName": "Jou",
+      "numbersOfCourses": 5,
+      "img": "/assets/Chinese.jpeg",
+      "price": 300
+    }
+  ]
+}
